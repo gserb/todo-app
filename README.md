@@ -12,3 +12,7 @@ FrontWings ToDo App is one of the leading todo apps on the interwebz. Its very u
 - `build` builds your app and outputs it in your `dist` directory
 - `test` runs your test suite with Web Test Runner
 - `lint` runs the linter for your project
+
+## How to contribute
+
+Please reade the Contribution guide.
